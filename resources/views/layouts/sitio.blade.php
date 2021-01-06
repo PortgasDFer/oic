@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{asset('site/css/magnific-popup.css')}}">
 
     <link rel="stylesheet" href="{{asset('site/css/flaticon.css')}}">
-    <link rel="stylesheet" href="{{asset('site/css/style.css')}}">    
+    <link rel="stylesheet" href="{{asset('site/css/style.min.css')}}">    
   </head>
   <body>
 
@@ -131,7 +131,7 @@
   <script src="{{asset('site/js/owl.carousel.min.js')}}"></script>
   <script src="{{asset('site/js/jquery.magnific-popup.min.js')}}"></script>
   <script src="{{asset('site/js/scrollax.min.js')}}"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false" async=""></script>
   <script src="{{asset('site/js/google-map.js')}}"></script>
   <script src="{{asset('site/js/main.js')}}"></script>
   <script src="/js/sweetalert.min.js"></script>
